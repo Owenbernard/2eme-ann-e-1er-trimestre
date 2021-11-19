@@ -19,6 +19,7 @@ int main()
 
     tText myHero;
 
+    //fonction init
     initText(&myHero);
 
     FILE* pFile = NULL;

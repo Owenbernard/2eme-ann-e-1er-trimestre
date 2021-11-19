@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\obern\OneDrive\Bureau\Ludus-Academie\Cours\Algorithmie\2eme année\Eval\exo4\Project1\main.c(11,12): warning C4101: 'myStock' : variable locale non référencée
+  Project1.vcxproj -> C:\Users\obern\OneDrive\Bureau\Ludus-Academie\Cours\Algorithmie\2eme année\Eval\exo4\Debug\Project1.exe

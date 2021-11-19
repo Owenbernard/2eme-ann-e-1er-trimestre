@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\obern\OneDrive\Bureau\Ludus-Academie\Cours\Algorithmie\2eme année\Eval\exo3\Project1\main.c(40,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\obern\OneDrive\Bureau\Ludus-Academie\Cours\Algorithmie\2eme année\Eval\exo3\Project1\main.c(51,34): warning C4047: '=' : les niveaux d'indirection de 'char' et de 'char *' sont différents
+C:\Users\obern\OneDrive\Bureau\Ludus-Academie\Cours\Algorithmie\2eme année\Eval\exo3\Project1\main.c(11,12): warning C4101: 'myStock' : variable locale non référencée
+  Project1.vcxproj -> C:\Users\obern\OneDrive\Bureau\Ludus-Academie\Cours\Algorithmie\2eme année\Eval\exo3\Debug\Project1.exe

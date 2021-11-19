@@ -1,3 +1,5 @@
+//creation d'un struct
+
 typedef struct tStock {
 
     int n_id; 
@@ -7,7 +9,5 @@ typedef struct tStock {
     char* str_tel[11];
 
 }tStock;
-
+//fonction init dans set.c
 extern void initStock(tStock* ptr_stock);
-extern void saveStock(tStock* myStock);
-extern void loadStock(tStock* myStock);
