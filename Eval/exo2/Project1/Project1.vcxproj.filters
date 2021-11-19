@@ -18,10 +18,18 @@
     <ClCompile Include="main.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
+    <ClCompile Include="set.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Base.txt">
+    <Text Include="fichierRepertoire.txt">
       <Filter>Fichiers sources</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Stockage.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

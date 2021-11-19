@@ -140,10 +140,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="set.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Base.txt" />
+    <Text Include="fichierRepertoire.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Stockage.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
